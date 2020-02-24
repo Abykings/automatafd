@@ -1,0 +1,14 @@
+{
+  "name": "afd",
+  "version": "1.0.0",
+  "description": "Evaluate regular expressions with automatas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique Abdiel Reyes Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.3.4"
+  }
+}
